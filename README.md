@@ -9,7 +9,7 @@ The Procratination Tracker is a web based application designed to help keep trac
 * Set due date for project
 * Assign any number of "To be complete" components to any project
 * Dynamic progress bar according to how many tasks are complete within the project
-* Add to calender function via Google, iCal or Ooutlook 
+* Add to calender function via Google, iCal, Outlook or Yahoo
 
 
 ### **Technologies**
@@ -34,5 +34,6 @@ Ranking reward system where each user can see their individual rank grade accord
 ### **Links**
 
 [GitHub Repository](https://github.com/RichardtHopkins/Procrastination-Tracker) |
-[GitHub Page](https://RichardtHopkins.github.io/Procrastination-Tracker/)
+[GitHub Page](https://RichardtHopkins.github.io/Procrastination-Tracker/) |
+[Heroku](https://procrastination-tracker.herokuapp.com/)
 
